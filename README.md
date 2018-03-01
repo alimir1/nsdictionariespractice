@@ -25,7 +25,10 @@ The goal of this project is to practice NSDictionary with Array.
 
 ## Required Features
 
-* TableViewController is dynamic and contains 1,000 fake Yelp businesses that are derived from the YelpAPI dictionary
+![](/HomeVC.png)
+
+* A TableViewController that is dynamic and contains 1,000 fake Yelp businesses that are derived from the YelpAPI dictionary
+* TableViewCell contains three labels to store the following information: Name, Category, & Founded #
 
 
 # Hint
